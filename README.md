@@ -1,2 +1,2 @@
-# ModelatgeBBDD
+# Modelatge-BBDD
 Exercici Modelatge BBDD
